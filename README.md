@@ -28,6 +28,8 @@ A complete guide with code examples for developers.
 
 [Read on Dev.to →](https://dev.to/mayno/half-your-free-trial-signups-are-fake-heres-how-to-fix-it-3h75)
 
+[Read on medium.com →](https://medium.com/@amineferiani16/half-your-free-trial-signups-are-fake-heres-how-to-fix-it-eedd9dc7c54d)
+
 ---
 
 ## 📫 Connect
